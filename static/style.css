@@ -1,0 +1,28 @@
+h1, p, label {
+	text-align: center;
+}
+
+p#output {
+	text-align: left;
+	display: flex;
+	justify-content: space-between;
+}
+
+input#prefix {
+	font-style: italic;
+}
+
+a.tt {
+	text-align: center;
+	color: black;
+	text-decoration: none;
+	border-bottom: 1px dotted darkgray;
+}
+
+h1{
+	font-family: 'Press Start 2P', cursive;
+}
+
+h2.display-6{
+	font-family: 'Kaushan Script', cursive;
+}
